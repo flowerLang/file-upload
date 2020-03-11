@@ -93,7 +93,6 @@ export default {
   .cube-container {
     width: 100%;
     margin: 0 auto;
-    overflow: hidden;
   }
 
   .cube-container .cube {
