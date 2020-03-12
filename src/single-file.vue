@@ -31,7 +31,7 @@ const SIZE = 0.5 * 1024 * 1024 // 切片大小
 // eslint-disable-next-line no-unused-vars
 const DEV = 'http://localhost:3000'
 // eslint-disable-next-line no-unused-vars
-const PRD = 'http://116.63.136.129/upload'
+const PRD = 'http://116.63.136.129/uploadApi'
 const env = 'production'
 
 let url = DEV
